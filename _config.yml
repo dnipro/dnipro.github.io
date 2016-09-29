@@ -7,8 +7,8 @@
 
 # Site settings
 title: This Domain Was Free
-email: your-email@domain.com
-description: Testing Jekyll and other build tools
+email: ""
+description: Testing Jekyll on GitHub Pages
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thisdomainwasfree.tk" # the base hostname & protocol for your site
