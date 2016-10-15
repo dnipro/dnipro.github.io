@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2016 17:59:00 -0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Проба функціонування платформи Pelican</title>
+      <link>http://replace-this-with-your-hugo-site.com/first-post/</link>
+      <pubDate>Sat, 15 Oct 2016 17:59:00 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/first-post/</guid>
+      <description>&lt;p&gt;Ось перший допис на цій сторінці.
+Цей блог створений генератором Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ще один допис для випробування цієї сторінки</title>
+      <link>http://replace-this-with-your-hugo-site.com/second-post/</link>
+      <pubDate>Sat, 15 Oct 2016 17:59:00 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/second-post/</guid>
+      <description>&lt;p&gt;Мій другий допис на цьому блозі для випробування нових (для мене) технологій.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Wed, 28 Sep 2016 21:43:28 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
