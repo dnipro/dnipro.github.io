@@ -1,2 +1,2 @@
 # Pelican output folder
-output
+output*.pyc
